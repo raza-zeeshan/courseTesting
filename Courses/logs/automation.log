@@ -1,0 +1,8 @@
+12:36:02.697 [main] INFO  testCase.TC_001_CourseTest - ***** Scrolling To Page Footer *****
+12:36:03.100 [main] INFO  testCase.TC_001_CourseTest - ***** Clicking For Enterprise *****
+12:37:24.155 [main] INFO  testCase.TC_001_CourseTest - ***** Verifying Enterprise Page *****
+12:37:24.600 [main] INFO  testCase.TC_001_CourseTest - ***** Enterprise Page Verified *****
+12:37:24.600 [main] INFO  testCase.TC_001_CourseTest - ***** Scrolling To FillForm *****
+12:37:24.600 [main] INFO  testCase.TC_001_CourseTest - ***** Filling  the Form *****
+12:38:47.605 [main] INFO  testCase.TC_001_CourseTest - ***** Clicking Submit Button *****
+12:38:51.300 [main] INFO  testCase.TC_001_CourseTest - ***** TC_003_FillformTest Completed *****

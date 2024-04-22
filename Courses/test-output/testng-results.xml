@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="42" passed="42" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T12:12:03 IST" name="Suite" finished-at="2024-03-20T12:28:31 IST" duration-ms="988088">
+    <groups>
+      <group name="regression">
+        <method signature="TC_001_CourseTest.validate_course_search()[pri:2, instance:testCase.TC_001_CourseTest@7c7a06ec]" name="validate_course_search" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_language()[pri:3, instance:testCase.TC_001_CourseTest@7c7a06ec]" name="validate_language" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_level()[pri:4, instance:testCase.TC_001_CourseTest@7c7a06ec]" name="validate_level" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_course1()[pri:5, instance:testCase.TC_001_CourseTest@7c7a06ec]" name="validate_course1" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_course2()[pri:6, instance:testCase.TC_001_CourseTest@7c7a06ec]" name="validate_course2" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_002_Languagele.validate_language()[pri:8, instance:testCase.TC_002_Languagele@22555ebf]" name="validate_language" class="testCase.TC_002_Languagele"/>
+        <method signature="TC_002_Languagele.validate_level()[pri:9, instance:testCase.TC_002_Languagele@22555ebf]" name="validate_level" class="testCase.TC_002_Languagele"/>
+        <method signature="TC_003_FillingFormTest.verify_coursera_page()[pri:10, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="verify_coursera_page" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.verify_enterprise_page()[pri:11, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="verify_enterprise_page" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_first_name()[pri:12, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_first_name" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_last_name()[pri:13, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_last_name" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.email()[pri:14, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="email" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_institution_type()[pri:15, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_institution_type" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_institution_name()[pri:16, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_institution_name" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_job_role()[pri:17, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_job_role" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_department()[pri:18, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_department" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_description()[pri:19, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_description" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_country()[pri:20, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_country" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_input()[pri:21, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="validate_input" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_001_CourseTest.validate_course_search()[pri:2, instance:testCase.TC_001_CourseTest@bcec361]" name="validate_course_search" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_language()[pri:3, instance:testCase.TC_001_CourseTest@bcec361]" name="validate_language" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_level()[pri:4, instance:testCase.TC_001_CourseTest@bcec361]" name="validate_level" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_course1()[pri:5, instance:testCase.TC_001_CourseTest@bcec361]" name="validate_course1" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_course2()[pri:6, instance:testCase.TC_001_CourseTest@bcec361]" name="validate_course2" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_002_Languagele.validate_language()[pri:8, instance:testCase.TC_002_Languagele@26794848]" name="validate_language" class="testCase.TC_002_Languagele"/>
+        <method signature="TC_002_Languagele.validate_level()[pri:9, instance:testCase.TC_002_Languagele@26794848]" name="validate_level" class="testCase.TC_002_Languagele"/>
+        <method signature="TC_003_FillingFormTest.verify_coursera_page()[pri:10, instance:testCase.TC_003_FillingFormTest@302552ec]" name="verify_coursera_page" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.verify_enterprise_page()[pri:11, instance:testCase.TC_003_FillingFormTest@302552ec]" name="verify_enterprise_page" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_first_name()[pri:12, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_first_name" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_last_name()[pri:13, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_last_name" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.email()[pri:14, instance:testCase.TC_003_FillingFormTest@302552ec]" name="email" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_institution_type()[pri:15, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_institution_type" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_institution_name()[pri:16, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_institution_name" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_job_role()[pri:17, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_job_role" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_department()[pri:18, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_department" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_description()[pri:19, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_description" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_country()[pri:20, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_country" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.validate_input()[pri:21, instance:testCase.TC_003_FillingFormTest@302552ec]" name="validate_input" class="testCase.TC_003_FillingFormTest"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_001_CourseTest.validate_home_page()[pri:1, instance:testCase.TC_001_CourseTest@7c7a06ec]" name="validate_home_page" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_course_search()[pri:2, instance:testCase.TC_001_CourseTest@7c7a06ec]" name="validate_course_search" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_002_Languagele.validate_language_learning_search()[pri:7, instance:testCase.TC_002_Languagele@22555ebf]" name="validate_language_learning_search" class="testCase.TC_002_Languagele"/>
+        <method signature="TC_003_FillingFormTest.verify_coursera_page()[pri:10, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="verify_coursera_page" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.verify_enterprise_page()[pri:11, instance:testCase.TC_003_FillingFormTest@36ebc363]" name="verify_enterprise_page" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_001_CourseTest.validate_home_page()[pri:1, instance:testCase.TC_001_CourseTest@bcec361]" name="validate_home_page" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_001_CourseTest.validate_course_search()[pri:2, instance:testCase.TC_001_CourseTest@bcec361]" name="validate_course_search" class="testCase.TC_001_CourseTest"/>
+        <method signature="TC_002_Languagele.validate_language_learning_search()[pri:7, instance:testCase.TC_002_Languagele@26794848]" name="validate_language_learning_search" class="testCase.TC_002_Languagele"/>
+        <method signature="TC_003_FillingFormTest.verify_coursera_page()[pri:10, instance:testCase.TC_003_FillingFormTest@302552ec]" name="verify_coursera_page" class="testCase.TC_003_FillingFormTest"/>
+        <method signature="TC_003_FillingFormTest.verify_enterprise_page()[pri:11, instance:testCase.TC_003_FillingFormTest@302552ec]" name="verify_enterprise_page" class="testCase.TC_003_FillingFormTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-03-20T12:12:03 IST" name="CHROME" finished-at="2024-03-20T12:20:01 IST" duration-ms="478699">
+      <class name="testCase.TC_003_FillingFormTest">
+        <test-method signature="verify_coursera_page()[pri:10, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:16:16 IST" name="verify_coursera_page" finished-at="2024-03-20T12:18:31 IST" duration-ms="134809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_coursera_page -->
+        <test-method signature="verify_enterprise_page()[pri:11, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:33 IST" name="verify_enterprise_page" finished-at="2024-03-20T12:18:33 IST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_enterprise_page -->
+        <test-method signature="validate_first_name()[pri:12, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:34 IST" name="validate_first_name" finished-at="2024-03-20T12:18:35 IST" duration-ms="1201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_first_name -->
+        <test-method signature="validate_last_name()[pri:13, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:36 IST" name="validate_last_name" finished-at="2024-03-20T12:18:36 IST" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_last_name -->
+        <test-method signature="email()[pri:14, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:37 IST" name="email" finished-at="2024-03-20T12:18:37 IST" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email -->
+        <test-method signature="validate_institution_type()[pri:15, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:37 IST" name="validate_institution_type" finished-at="2024-03-20T12:18:38 IST" duration-ms="795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_institution_type -->
+        <test-method signature="validate_institution_name()[pri:16, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:39 IST" name="validate_institution_name" finished-at="2024-03-20T12:18:39 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_institution_name -->
+        <test-method signature="validate_job_role()[pri:17, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:39 IST" name="validate_job_role" finished-at="2024-03-20T12:18:40 IST" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_job_role -->
+        <test-method signature="validate_department()[pri:18, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:40 IST" name="validate_department" finished-at="2024-03-20T12:18:47 IST" duration-ms="6963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_department -->
+        <test-method signature="validate_description()[pri:19, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:48 IST" name="validate_description" finished-at="2024-03-20T12:18:51 IST" duration-ms="3650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_description -->
+        <test-method signature="validate_country()[pri:20, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:18:52 IST" name="validate_country" finished-at="2024-03-20T12:19:53 IST" duration-ms="60716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_country -->
+        <test-method signature="validate_input()[pri:21, instance:testCase.TC_003_FillingFormTest@36ebc363]" started-at="2024-03-20T12:19:53 IST" name="validate_input" finished-at="2024-03-20T12:19:59 IST" duration-ms="5890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_input -->
+      </class> <!-- testCase.TC_003_FillingFormTest -->
+      <class name="testCase.TC_002_Languagele">
+        <test-method signature="validate_language_learning_search()[pri:7, instance:testCase.TC_002_Languagele@22555ebf]" started-at="2024-03-20T12:16:01 IST" name="validate_language_learning_search" finished-at="2024-03-20T12:16:09 IST" duration-ms="8509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_language_learning_search -->
+        <test-method signature="validate_language()[pri:8, instance:testCase.TC_002_Languagele@22555ebf]" started-at="2024-03-20T12:16:10 IST" name="validate_language" finished-at="2024-03-20T12:16:15 IST" duration-ms="4581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_language -->
+        <test-method signature="validate_level()[pri:9, instance:testCase.TC_002_Languagele@22555ebf]" started-at="2024-03-20T12:16:15 IST" name="validate_level" finished-at="2024-03-20T12:16:16 IST" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_level -->
+      </class> <!-- testCase.TC_002_Languagele -->
+      <class name="testCase.TC_001_CourseTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC_001_CourseTest@7c7a06ec]" started-at="2024-03-20T12:12:04 IST" name="setUp" finished-at="2024-03-20T12:13:03 IST" duration-ms="59338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_home_page()[pri:1, instance:testCase.TC_001_CourseTest@7c7a06ec]" started-at="2024-03-20T12:13:03 IST" name="validate_home_page" finished-at="2024-03-20T12:13:04 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_home_page -->
+        <test-method signature="validate_course_search()[pri:2, instance:testCase.TC_001_CourseTest@7c7a06ec]" started-at="2024-03-20T12:13:04 IST" name="validate_course_search" finished-at="2024-03-20T12:13:50 IST" duration-ms="46215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_course_search -->
+        <test-method signature="validate_language()[pri:3, instance:testCase.TC_001_CourseTest@7c7a06ec]" started-at="2024-03-20T12:13:51 IST" name="validate_language" finished-at="2024-03-20T12:13:55 IST" duration-ms="4539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_language -->
+        <test-method signature="validate_level()[pri:4, instance:testCase.TC_001_CourseTest@7c7a06ec]" started-at="2024-03-20T12:13:56 IST" name="validate_level" finished-at="2024-03-20T12:14:00 IST" duration-ms="4703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_level -->
+        <test-method signature="validate_course1()[pri:5, instance:testCase.TC_001_CourseTest@7c7a06ec]" started-at="2024-03-20T12:14:01 IST" name="validate_course1" finished-at="2024-03-20T12:15:05 IST" duration-ms="63787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_course1 -->
+        <test-method signature="validate_course2()[pri:6, instance:testCase.TC_001_CourseTest@7c7a06ec]" started-at="2024-03-20T12:15:05 IST" name="validate_course2" finished-at="2024-03-20T12:16:00 IST" duration-ms="55225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_course2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC_001_CourseTest@7c7a06ec]" started-at="2024-03-20T12:20:00 IST" name="tearDown" finished-at="2024-03-20T12:20:01 IST" duration-ms="1668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TC_001_CourseTest -->
+    </test> <!-- CHROME -->
+    <test started-at="2024-03-20T12:20:05 IST" name="Edge" finished-at="2024-03-20T12:28:31 IST" duration-ms="505654">
+      <class name="testCase.TC_003_FillingFormTest">
+        <test-method signature="verify_coursera_page()[pri:10, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:24:56 IST" name="verify_coursera_page" finished-at="2024-03-20T12:27:01 IST" duration-ms="125472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_coursera_page -->
+        <test-method signature="verify_enterprise_page()[pri:11, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:03 IST" name="verify_enterprise_page" finished-at="2024-03-20T12:27:03 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_enterprise_page -->
+        <test-method signature="validate_first_name()[pri:12, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:04 IST" name="validate_first_name" finished-at="2024-03-20T12:27:05 IST" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_first_name -->
+        <test-method signature="validate_last_name()[pri:13, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:05 IST" name="validate_last_name" finished-at="2024-03-20T12:27:06 IST" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_last_name -->
+        <test-method signature="email()[pri:14, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:06 IST" name="email" finished-at="2024-03-20T12:27:07 IST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email -->
+        <test-method signature="validate_institution_type()[pri:15, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:07 IST" name="validate_institution_type" finished-at="2024-03-20T12:27:08 IST" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_institution_type -->
+        <test-method signature="validate_institution_name()[pri:16, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:08 IST" name="validate_institution_name" finished-at="2024-03-20T12:27:09 IST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_institution_name -->
+        <test-method signature="validate_job_role()[pri:17, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:09 IST" name="validate_job_role" finished-at="2024-03-20T12:27:10 IST" duration-ms="1049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_job_role -->
+        <test-method signature="validate_department()[pri:18, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:11 IST" name="validate_department" finished-at="2024-03-20T12:27:18 IST" duration-ms="6801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_department -->
+        <test-method signature="validate_description()[pri:19, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:18 IST" name="validate_description" finished-at="2024-03-20T12:27:22 IST" duration-ms="3743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_description -->
+        <test-method signature="validate_country()[pri:20, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:27:22 IST" name="validate_country" finished-at="2024-03-20T12:28:23 IST" duration-ms="60847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_country -->
+        <test-method signature="validate_input()[pri:21, instance:testCase.TC_003_FillingFormTest@302552ec]" started-at="2024-03-20T12:28:23 IST" name="validate_input" finished-at="2024-03-20T12:28:28 IST" duration-ms="4513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_input -->
+      </class> <!-- testCase.TC_003_FillingFormTest -->
+      <class name="testCase.TC_002_Languagele">
+        <test-method signature="validate_language_learning_search()[pri:7, instance:testCase.TC_002_Languagele@26794848]" started-at="2024-03-20T12:24:45 IST" name="validate_language_learning_search" finished-at="2024-03-20T12:24:50 IST" duration-ms="4475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_language_learning_search -->
+        <test-method signature="validate_language()[pri:8, instance:testCase.TC_002_Languagele@26794848]" started-at="2024-03-20T12:24:50 IST" name="validate_language" finished-at="2024-03-20T12:24:54 IST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_language -->
+        <test-method signature="validate_level()[pri:9, instance:testCase.TC_002_Languagele@26794848]" started-at="2024-03-20T12:24:54 IST" name="validate_level" finished-at="2024-03-20T12:24:55 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_level -->
+      </class> <!-- testCase.TC_002_Languagele -->
+      <class name="testCase.TC_001_CourseTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC_001_CourseTest@bcec361]" started-at="2024-03-20T12:20:05 IST" name="setUp" finished-at="2024-03-20T12:21:08 IST" duration-ms="63480" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_home_page()[pri:1, instance:testCase.TC_001_CourseTest@bcec361]" started-at="2024-03-20T12:21:08 IST" name="validate_home_page" finished-at="2024-03-20T12:21:09 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_home_page -->
+        <test-method signature="validate_course_search()[pri:2, instance:testCase.TC_001_CourseTest@bcec361]" started-at="2024-03-20T12:21:09 IST" name="validate_course_search" finished-at="2024-03-20T12:22:50 IST" duration-ms="100618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_course_search -->
+        <test-method signature="validate_language()[pri:3, instance:testCase.TC_001_CourseTest@bcec361]" started-at="2024-03-20T12:22:50 IST" name="validate_language" finished-at="2024-03-20T12:22:55 IST" duration-ms="4655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_language -->
+        <test-method signature="validate_level()[pri:4, instance:testCase.TC_001_CourseTest@bcec361]" started-at="2024-03-20T12:22:55 IST" name="validate_level" finished-at="2024-03-20T12:23:00 IST" duration-ms="4837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_level -->
+        <test-method signature="validate_course1()[pri:5, instance:testCase.TC_001_CourseTest@bcec361]" started-at="2024-03-20T12:23:02 IST" name="validate_course1" finished-at="2024-03-20T12:23:54 IST" duration-ms="52206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_course1 -->
+        <test-method signature="validate_course2()[pri:6, instance:testCase.TC_001_CourseTest@bcec361]" started-at="2024-03-20T12:23:54 IST" name="validate_course2" finished-at="2024-03-20T12:24:45 IST" duration-ms="50479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_course2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC_001_CourseTest@bcec361]" started-at="2024-03-20T12:28:29 IST" name="tearDown" finished-at="2024-03-20T12:28:31 IST" duration-ms="2042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TC_001_CourseTest -->
+    </test> <!-- Edge -->
+  </suite> <!-- Suite -->
+</testng-results>
